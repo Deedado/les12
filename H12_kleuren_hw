@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="nl">
+    <head><meta name="descripion" ">
+        <meta name="keywords" content=“”>
+<meta charset="utf-8">
+        <title>Titel naar keuze</title>
+        <link rel="stylesheet" type="text/css" href="style/style.css" />
+
+    </head>
+    <body>
+<header>
+    
+
+</header>
+
+    <table>
+        <tr>
+            <td id="td1"><background-color id="bc1">fietsen</background-color></td>
+            <td id="td2"><img src="img/hond1.jpg" alt="hond1" width="150" height="auto"></td>
+           
+            <td id="td3"><background-color id="bc3">kees</background-color></td>
+            <td id="td4"><img src="img/hond2.jpg" alt="hond2" width="150" height="auto"></td>
+        </tr>
+
+        <tr>
+            <td id="td5"><background-color id="bc5">stof</background-color></td>
+            <td id="td6"><img src="img/hond3.jpg" alt="hond3" width="150" height="auto"></td>
+            <td id="td7"><background-color id="bc7">vrolijk</background-color></td>
+            <td id="td8"><img src="img/hond4.jpeg" alt="hond4" width="150" height="auto"></td>
+        </tr>
+
+        <tr>
+            <td id="td9"><background-color id="bc9">groen</background-color></td>
+            <td id="td10"><img src="img/hond5.webp" alt="hond5" width="150" height="auto"></td1>
+            <td id="td11"><background-color id="bc11">poel</background-color></td>
+            <td id="td12"><img src="img/hond6.jpg" alt="hond6" width="150" height="auto"></td>
+        </tr>
+
+        <tr>
+            <td id="td13"><background-color id="bc13">lekker</background-color></td>
+            <td id="td14"><img src="img/hond7.webp" alt="hond7" width="150" height="auto"></td>
+            <td id="td15"><background-color id="bc15">staart</background-color></td>
+            <td id="td16"><img src="img/hond8.jpg" alt="hond8" width="150" height="auto"></td>
+           
+    </table>
+
+
+<footer></footer>
+</body>
+</html>
